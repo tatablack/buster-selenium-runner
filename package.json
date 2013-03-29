@@ -1,7 +1,7 @@
 {
     "name": "js-test-runner",
     "version": "0.1.0",
-    "author": "Angelo Tata <atata@ebay.com>",
+    "author": "Angelo Tata <angelo.tata@gmail.com>",
     "description": "Buster.JS test runner for Selenium grid nodes",
     "main": "./lib/TestRunner",
 
