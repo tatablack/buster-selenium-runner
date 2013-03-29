@@ -1,0 +1,17 @@
+{
+    "gridServer": {
+        "host": "localhost",
+        "port": "4444",
+        "capabilities": {
+            "browserName": "firefox"
+        }
+    },
+
+    "busterServer": {
+        "interface": "en0"
+    },
+
+    "busterRunner": {
+        "spec": ""
+    }
+}

@@ -1,0 +1,26 @@
+{
+    "name": "js-test-runner",
+    "version": "0.1.0",
+    "author": "Angelo Tata <atata@ebay.com>",
+    "description": "Buster.JS test runner for Selenium grid nodes",
+    "main": "./lib/TestRunner",
+
+    "dependencies" : {
+        "nconf": "0.6.x",
+        "underscore": ">=1.4.4",
+        "colors": "0.6.x",
+        "step": "0.0.x",
+        "freeport": "1.0.x",
+        "selenium-grid-status": "0.0.x",
+        "selenium-webdriver": "2.31.x",
+        "buster": "0.6.x",
+        "buster-server-cli": "0.2.x",
+        "buster-syntax": "0.4.x",
+        "buster-test-cli": "0.7.x"
+    },
+
+    "license": "MIT",
+    "engines": {
+        "node": ">=0.8"
+    }
+}
