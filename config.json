@@ -1,5 +1,5 @@
 {
-    "gridServer": {
+    "gridConfig": {
         "host": "localhost",
         "port": "4444",
         "capabilities": {
