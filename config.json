@@ -2,9 +2,11 @@
     "gridConfig": {
         "host": "localhost",
         "port": "4444",
-        "capabilities": {
-            "browserName": "firefox"
-        }
+        "capabilities": [
+            {
+                "browserName": "firefox"
+            }
+        ]
     },
 
     "busterServer": {
@@ -12,6 +14,6 @@
     },
 
     "busterRunner": {
-        "spec": ""
+        "spec": "YOUR_SPEC_PATH_HERE"
     }
 }
