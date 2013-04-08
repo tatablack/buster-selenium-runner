@@ -9,16 +9,14 @@
         "nconf": "0.6.x",
         "underscore": ">=1.4.4",
         "cli-color": "0.2.x",
-        "step": "0.0.x",
         "when": "2.0.x",
         "freeport": "1.0.x",
         "selenium-grid-status": "0.0.x",
         "selenium-webdriver": "2.31.x",
         "buster": "0.6.x",
         "buster-core": "0.6.x",
-        "buster-test": "0.6.x",
-        "buster-server-cli": "0.2.x",
         "buster-syntax": "0.4.x",
+        "buster-server-cli": "0.2.x",
         "buster-test-cli": "0.7.6"
     },
 
