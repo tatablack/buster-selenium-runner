@@ -11,9 +11,5 @@
 
     "busterServer": {
         "interface": "en0"
-    },
-
-    "busterRunner": {
-        "spec": "YOUR_SPEC_PATH_HERE"
     }
 }
