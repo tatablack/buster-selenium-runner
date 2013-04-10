@@ -11,5 +11,9 @@
 
     "busterServer": {
         "interface": "en0"
+    },
+
+    "busterRunner": {
+        "specs": []
     }
 }
