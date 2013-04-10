@@ -18,7 +18,7 @@ However, after pushing to your VCS of choice, it would be nice to run your tests
 It would be even better if you could run a single Buster server and capture different Grid nodes all at once (say, IE 9, Chrome, Firefox),
 and maybe even run more that one test suite in a single command.
 
-Can you guess what this project is about, now? I think you can.
+Can you guess what this project is about, now? I think you can. :smirk:
 
 ## Setup and configuration
 Download the standalone grid jar. Start it once in a server role, once in a node role.
