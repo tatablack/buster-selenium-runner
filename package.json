@@ -1,9 +1,24 @@
 {
-    "name": "js-test-runner",
+    "name": "buster-selenium-runner",
+    "preferGlobal": true,
     "version": "0.1.0",
     "author": "Angelo Tata <angelo.tata@gmail.com>",
     "description": "Buster.JS test runner for Selenium grid nodes",
-    "main": "./lib/TestRunner",
+
+    "scripts": {
+        "start": "./lib/TestRunner.js"
+    },
+
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/tatablack/buster-selenium-runner.git"
+    },
+
+    "keywords": [
+        "buster",
+        "selenium",
+        "runner"
+    ],
 
     "dependencies" : {
         "nconf": "0.6.x",
